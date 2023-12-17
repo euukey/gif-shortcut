@@ -10,4 +10,4 @@
 
   - [icloud](https://www.icloud.com/shortcuts/2b04a814ab0b4812a3db1cf71f7e4a40)
 
-  -[ghproxy](https://ghproxy.net/https://raw.githubusercontent.com/euukey/gif-shortcut/main/gif-shortcut_2.0.shortcut)
+  - [ghproxy](https://ghproxy.net/https://raw.githubusercontent.com/euukey/gif-shortcut/main/gif-shortcut_2.0.shortcut)
